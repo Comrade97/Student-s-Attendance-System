@@ -16,7 +16,7 @@ Required Software:
 
 Sample of working project is presented in video. 
 
-Video Link: 
+Video Link: https://youtu.be/JVszsN0_wrw
 
 ThingSpeak Result:
 
