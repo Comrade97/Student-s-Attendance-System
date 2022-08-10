@@ -17,3 +17,8 @@ Required Software:
 Sample of working project is presented in video. 
 
 Video Link: 
+
+ThingSpeak Result:
+
+![image](https://user-images.githubusercontent.com/88082230/183826028-cdf5a315-90ce-4608-abbb-8c08477d8ebd.png)
+
